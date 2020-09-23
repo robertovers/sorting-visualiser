@@ -4,6 +4,9 @@
 
 ![SortingVisualiserImage](https://i.imgur.com/dcaETdT.png)
 
+Demo Video: https://youtu.be/IYyXx9DZy7M
+</br>
+
 Sorting Function | Implemented
 ---------------- | -----------
 Bubble Sort | √
