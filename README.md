@@ -8,7 +8,7 @@ Demo Video: https://youtu.be/IYyXx9DZy7M
 
 </br>
 
-Sorting Function | Implemented
+Sorting Algorithm | Implemented
 ---------------- | -----------
 Bubble Sort | √
 Selection Sort | √
